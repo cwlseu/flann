@@ -1,0 +1,479 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.11.1)  5 DEC 2016 19:43
+entering extended mode
+**C:/Repo/flann/doc/manual.tex
+(C:/Repo/flann/doc/manual.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\Develop\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\Develop\CTEX\MiKTeX\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(C:\Develop\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(C:\Develop\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(C:\Develop\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(C:\Develop\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(C:\Develop\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count100
+\FV@InFile=\read1
+\FV@TabBox=\box28
+\c@FancyVerbLine=\count101
+\FV@StepNumber=\count102
+\FV@OutFile=\write3
+) (C:\Develop\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
+
+(C:\Develop\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(C:\Develop\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(C:\Develop\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(C:\Develop\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen116
+\Hy@linkcounter=\count103
+\Hy@pagecounter=\count104
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count105
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count106
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count107
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring OFF on input line 5777.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count108
+\c@Item=\count109
+\c@Hfootnote=\count110
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
+\Fld@listcount=\count111
+\c@bookmark@seq@number=\count112
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip49
+)
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(C:\Repo\flann\doc\manual.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+(C:\Develop\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen119
+\scratchbox=\box29
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen120
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks27
+)
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 20.
+ (C:\Develop\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(C:\Develop\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count119
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+
+(C:\Repo\flann\doc\manual.out) (C:\Repo\flann\doc\manual.out)
+\@outlinefile=\write4
+LaTeX Font Info:    Try loading font information for U+lasy on input line 26.
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{C:/Develop/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 67.
+
+(C:\Develop\CTEX\MiKTeX\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.99     delete[] indices.ptr();
+                                 [1] [2] [3]
+<images/cmake-gui.png, id=189, 462.22687pt x 429.85594pt>
+File: images/cmake-gui.png Graphic file (type png)
+
+<use images/cmake-gui.png>
+Package pdftex.def Info: images/cmake-gui.png used on input line 269.
+(pdftex.def)             Requested size: 310.4979pt x 288.75627pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <C:/Repo/flann/doc/images/cmake-gui.png>] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 435--442
+
+ []
+
+[8] [9] [10] [11]
+Overfull \hbox (11.04626pt too wide) in paragraph at lines 641--644
+\OT1/cmr/m/n/10 Builds the n-ear-est neigh-bor search in-dex. There are t-wo ve
+r-sion-s of the \OT1/cmtt/m/n/10 buildIndex
+ []
+
+[12]
+Overfull \hbox (6.24936pt too wide) in paragraph at lines 704--705
+[]\OT1/cmr/m/n/10 Search pa-ram-e-ter-s. Struc-ture con-tain-ing pa-ram-e-ter-s
+ used dur-ing search. 
+ []
+
+[13]
+Overfull \hbox (19.18958pt too wide) in paragraph at lines 733--737
+\OT1/cmr/m/n/10 nal-ly (pos-si-ble val-ues: FLAN-N[]False, FLAN-N[]True, FLAN-N
+[]Undefined).
+ []
+
+[14] [15] [16] [17]
+Overfull \hbox (1.34187pt too wide) in paragraph at lines 924--927
+[]\OT1/cmr/m/n/10 - is used to re-turn the ap-prox-i-mate speedup over lin-ear 
+search achieved
+ []
+
+[18] [19]
+Overfull \hbox (37.83543pt too wide) in paragraph at lines 1007--1011
+[]\OT1/cmr/m/n/10 The field-s: \OT1/cmtt/m/n/10 checks\OT1/cmr/m/n/10 , \OT1/cm
+tt/m/n/10 cb[]index\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 trees\OT1/cmr/m/n/10 , \O
+T1/cmtt/m/n/10 branching\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 iterations\OT1/cmr/m
+/n/10 , \OT1/cmtt/m/n/10 target[]precision\OT1/cmr/m/n/10 ,
+ []
+
+
+Overfull \hbox (2.25502pt too wide) in paragraph at lines 1007--1011
+\OT1/cmtt/m/n/10 build[]weight\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 memory[]weight
+ \OT1/cmr/m/n/10 and \OT1/cmtt/m/n/10 sample[]fraction \OT1/cmr/m/n/10 have the
+ same mean-
+ []
+
+[20] [21]
+Overfull \hbox (29.84622pt too wide) in paragraph at lines 1171--1183
+\OT1/cmr/m/n/10 func-tion-s: \OT1/cmtt/m/n/10 flann[]build[]index\OT1/cmr/m/n/1
+0 , \OT1/cmtt/m/n/10 flann[]search\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 flann[]sav
+e[]index\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 flann[]load[]index\OT1/cmr/m/n/10 ,
+ []
+
+
+Overfull \hbox (26.53554pt too wide) in paragraph at lines 1171--1183
+\OT1/cmr/m/n/10 in-dex to per-for-m nearest-neighbor search-es, \OT1/cmtt/m/n/1
+0 flann[]save[]index \OT1/cmr/m/n/10 and \OT1/cmtt/m/n/10 flann[]load[]index
+ []
+
+
+Overfull \hbox (23.78195pt too wide) in paragraph at lines 1171--1183
+\OT1/cmr/m/n/10 used to set the dis-tance type to be used when build-ing an in-
+dex and \OT1/cmtt/m/n/10 flann[]free[]index
+ []
+
+[22]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 1207.
+
+
+Overfull \hbox (5.44382pt too wide) in paragraph at lines 1227--1236
+\OT1/cmtt/m/n/10 'composite' \OT1/cmr/m/n/10 is a mix of both kdtree and k-mean
+-s trees and the \OT1/cmtt/m/n/10 'autotuned'
+ []
+
+[23] [24]
+Overfull \hbox (27.08658pt too wide) in paragraph at lines 1309--1317
+[]\OT1/cmr/m/n/10 The \OT1/cmtt/m/n/10 flann[]build[]index \OT1/cmr/m/n/10 func
+-tion re-turn-s the new-ly cre-at-ed \OT1/cmtt/m/n/10 index\OT1/cmr/m/n/10 , th
+e \OT1/cmtt/m/n/10 parameters
+ []
+
+[25]
+Overfull \hbox (3.18428pt too wide) in paragraph at lines 1406--1410
+[]\OT1/cmr/m/n/10 - the dis-tance type to use. Pos-si-ble val-ues are: \OT1/cmt
+t/m/n/10 'euclidean'\OT1/cmr/m/n/10 , \OT1/cmtt/m/n/10 'manhattan'\OT1/cmr/m/n/
+10 ,
+ []
+
+[26] [27] [28] (C:\Repo\flann\doc\manual.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1574.
+ [29]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1574.
+
+(C:\Repo\flann\doc\manual.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1574.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1574.
+
+Package rerunfilecheck Info: File `manual.out' has not changed.
+(rerunfilecheck)             Checksum: 5EB4774E8749F8FC40381571992545E0;3154.
+ ) 
+Here is how much of TeX's memory you used:
+ 6296 strings out of 495354
+ 89549 string characters out of 3183411
+ 175562 words of memory out of 3000000
+ 9318 multiletter control sequences out of 15000+200000
+ 12989 words of font info for 55 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 34i,8n,28p,417b,568s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Develop/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Develop
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Develop/CTEX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Develop/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><C:/Develop/CTEX/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Develop/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Develop/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Develop/CT
+EX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Develop/CTEX/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr7.pfb><C:/Develop/CTEX/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Develop/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Develop/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/De
+velop/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Develop/CTEX/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on manual.pdf (30 pages, 322484 bytes).
+PDF statistics:
+ 383 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 318 words of extra memory for PDF output out of 10000 (max. 10000000)
+
